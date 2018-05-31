@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>String on Seveniu的博客</title>
+    <link>http://localhost:1313/tags/string/</link>
+    <description>Recent content in String on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    <lastBuildDate>Sun, 10 Sep 2017 18:19:49 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/string/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java 中 String 存在哪</title>
+      <link>http://localhost:1313/post/java-character-save/</link>
+      <pubDate>Sun, 10 Sep 2017 18:19:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java-character-save/</guid>
+      <description>字符串驻留 什么是字符串驻留wiki Incomputer science, string interning is a method of storing only onecopy of each distinct string value, which must be immutable. Interning strings makes some stringprocessing tasks more time- or space-efficient at the cost of requiring moretime when the string is created or interned. The distinct values are stored ina string intern pool. 在</description>
+    </item>
+    
+    <item>
+      <title>Java String Structure</title>
+      <link>http://localhost:1313/post/java-character/</link>
+      <pubDate>Thu, 07 Sep 2017 11:52:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java-character/</guid>
+      <description>&lt;h3 id=&#34;java-中字符如何存储&#34;&gt;Java 中字符如何存储&lt;/h3&gt;
+
+&lt;p&gt;Java 中的字符信息是基于  Unicode 的  java 8 中对应的 Unicode 版本是 6.2.0，用 utf-16 编码的 16bit 的码元(code unit) 序列表示的。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

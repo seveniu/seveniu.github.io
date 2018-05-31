@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quartz on Seveniu的博客</title>
+    <link>http://localhost:1313/tags/quartz/</link>
+    <description>Recent content in Quartz on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    <lastBuildDate>Fri, 20 Oct 2017 17:12:01 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/quartz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spring 中使用 Quartz 时，Job 无法注入spring bean的问题</title>
+      <link>http://localhost:1313/post/spring-quartz-autowired/</link>
+      <pubDate>Fri, 20 Oct 2017 17:12:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/spring-quartz-autowired/</guid>
+      <description>&lt;p&gt;Quartz 中 Job 是通过反射出来的实例，不受spring的管理，所以就导致Job 中无法注入 spring 的 bean。&lt;/p&gt;
+
+&lt;h4 id=&#34;解决方案&#34;&gt;解决方案&lt;/h4&gt;
+
+&lt;p&gt;Quartz 中有一个 &lt;code&gt;JobFactory&lt;/code&gt; 接口，负责生成Job类的实例。&lt;/p&gt;
+
+&lt;p&gt;这个接口可能对那些希望通过某种特殊机制使其应用程序产生Job实例的用户，例如给予依赖注入的操作性。&lt;/p&gt;
+
+&lt;p&gt;我们需要做的就是实现一个 &lt;code&gt;JobFactory&lt;/code&gt; 接口的类，实现依赖注入。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

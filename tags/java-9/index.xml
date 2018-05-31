@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java 9 on Seveniu的博客</title>
+    <link>http://localhost:1313/tags/java-9/</link>
+    <description>Recent content in Java 9 on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    <lastBuildDate>Sat, 12 May 2018 22:07:51 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/java-9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java String 知识点补充以及在 Java 9 中的变化</title>
+      <link>http://localhost:1313/post/java-string-more/</link>
+      <pubDate>Sat, 12 May 2018 22:07:51 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java-string-more/</guid>
+      <description>G1 垃圾回收器对字符串的优化 G1 GC 下的字符串排重。它是通过将相同数据的字符串指向同一份数据。以此来减少内存占用。 这个功能目前是默认关闭的，你需要</description>
+    </item>
+    
+  </channel>
+</rss>

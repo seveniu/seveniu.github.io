@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Seveniu的博客</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    
+	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guava</title>
+      <link>http://localhost:1313/categories/guava/</link>
+      <pubDate>Tue, 12 Sep 2017 22:07:51 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/guava/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/categories/java/</link>
+      <pubDate>Sat, 12 May 2018 22:07:51 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jvm</title>
+      <link>http://localhost:1313/categories/jvm/</link>
+      <pubDate>Sun, 10 Sep 2017 18:19:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/jvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>http://localhost:1313/categories/mysql/</link>
+      <pubDate>Mon, 04 Sep 2017 11:45:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quartz</title>
+      <link>http://localhost:1313/categories/quartz/</link>
+      <pubDate>Fri, 20 Oct 2017 17:12:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/categories/quartz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

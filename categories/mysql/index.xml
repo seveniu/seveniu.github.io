@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mysql on Seveniu的博客</title>
+    <link>http://localhost:1313/categories/mysql/</link>
+    <description>Recent content in Mysql on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    <lastBuildDate>Mon, 04 Sep 2017 11:45:29 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mysql Character</title>
+      <link>http://localhost:1313/post/mysql-character/</link>
+      <pubDate>Mon, 04 Sep 2017 11:45:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/mysql-character/</guid>
+      <description>&lt;h3 id=&#34;mysql-的字符集&#34;&gt;Mysql 的字符集&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;Character Set 是存储字符集
+Collation 是排序字符集
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

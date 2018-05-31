@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encode on Seveniu的博客</title>
+    <link>http://localhost:1313/tags/encode/</link>
+    <description>Recent content in Encode on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    <lastBuildDate>Thu, 07 Sep 2017 11:52:38 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/encode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java String Structure</title>
+      <link>http://localhost:1313/post/java-character/</link>
+      <pubDate>Thu, 07 Sep 2017 11:52:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java-character/</guid>
+      <description>&lt;h3 id=&#34;java-中字符如何存储&#34;&gt;Java 中字符如何存储&lt;/h3&gt;
+
+&lt;p&gt;Java 中的字符信息是基于  Unicode 的  java 8 中对应的 Unicode 版本是 6.2.0，用 utf-16 编码的 16bit 的码元(code unit) 序列表示的。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

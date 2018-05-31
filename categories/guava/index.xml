@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guava on Seveniu的博客</title>
+    <link>http://localhost:1313/categories/guava/</link>
+    <description>Recent content in Guava on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    <lastBuildDate>Tue, 12 Sep 2017 22:07:51 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/guava/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guava Cache 的刷新机制</title>
+      <link>http://localhost:1313/post/guava-cache/</link>
+      <pubDate>Tue, 12 Sep 2017 22:07:51 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/guava-cache/</guid>
+      <description>&lt;p&gt;在工作时遇到一个缓存的场景，使用了 Guava cache。使用过程中有一些疑惑，顺便记录一下。&lt;/p&gt;
+
+&lt;p&gt;具体的使用就不说了，可以看文章最先面的参考文章。&lt;/p&gt;
+
+&lt;p&gt;这篇文章主要说一下 Guava cache 的刷新。
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

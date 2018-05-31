@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jvm on Seveniu的博客</title>
+    <link>http://localhost:1313/categories/jvm/</link>
+    <description>Recent content in Jvm on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    <lastBuildDate>Sun, 10 Sep 2017 18:19:49 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/jvm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java 中 String 存在哪</title>
+      <link>http://localhost:1313/post/java-character-save/</link>
+      <pubDate>Sun, 10 Sep 2017 18:19:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java-character-save/</guid>
+      <description>字符串驻留 什么是字符串驻留wiki Incomputer science, string interning is a method of storing only onecopy of each distinct string value, which must be immutable. Interning strings makes some stringprocessing tasks more time- or space-efficient at the cost of requiring moretime when the string is created or interned. The distinct values are stored ina string intern pool. 在</description>
+    </item>
+    
+    <item>
+      <title>Java String Structure</title>
+      <link>http://localhost:1313/post/java-character/</link>
+      <pubDate>Thu, 07 Sep 2017 11:52:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java-character/</guid>
+      <description>&lt;h3 id=&#34;java-中字符如何存储&#34;&gt;Java 中字符如何存储&lt;/h3&gt;
+
+&lt;p&gt;Java 中的字符信息是基于  Unicode 的  java 8 中对应的 Unicode 版本是 6.2.0，用 utf-16 编码的 16bit 的码元(code unit) 序列表示的。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>JVM 中规定的运行时数据区域</title>
+      <link>http://localhost:1313/post/the-jvm-run-time-data-areas/</link>
+      <pubDate>Mon, 28 Aug 2017 17:02:18 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/the-jvm-run-time-data-areas/</guid>
+      <description>&lt;h2 id=&#34;概述&#34;&gt;概述&lt;/h2&gt;
+
+&lt;p&gt;Java虚拟机定义了在执行程序期间使用的各种运行时数据区域。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The pc Register &amp;ndash; 程序计数器&lt;/li&gt;
+&lt;li&gt;java virtual machine stacks &amp;ndash; 虚拟机栈&lt;/li&gt;
+&lt;li&gt;Heap &amp;ndash; 堆&lt;/li&gt;
+&lt;li&gt;method area &amp;ndash; 方法区&lt;/li&gt;
+&lt;li&gt;Run-Time Constant Pool &amp;ndash; 运行时常量池&lt;/li&gt;
+&lt;li&gt;native method stacks &amp;ndash; 本地方法栈&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Seveniu的博客</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Seveniu的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>author.name</copyright>
+    <lastBuildDate>Mon, 14 Aug 2017 16:40:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/post/hugo/</link>
+      <pubDate>Mon, 14 Aug 2017 16:40:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/hugo/</guid>
+      <description>常用命令 启动 hugo server 添加文章 hugo new post/article.md</description>
+    </item>
+    
+  </channel>
+</rss>
